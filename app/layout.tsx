@@ -10,12 +10,12 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Nexora – Go Beyond Clicks',
+  title: 'NexOra',
   description:
     'Privacy-friendly web analytics made and hosted in Germany — powerful, cookie-free, and fully compliant with GDPR, CCPA, and PECR.',
-  keywords: ['web analytics', 'privacy', 'GDPR', 'cookie-free', 'Nexora'],
+  keywords: ['web analytics', 'privacy', 'GDPR', 'cookie-free', 'NexOra'],
   openGraph: {
-    title: 'Nexora – Go Beyond Clicks',
+    title: 'NexOra',
     description: 'Privacy-friendly web analytics — powerful, cookie-free, GDPR compliant.',
     type: 'website',
   },
