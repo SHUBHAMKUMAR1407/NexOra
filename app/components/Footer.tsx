@@ -80,9 +80,9 @@ const Footer: React.FC = () => {
         </div>
 
         {/* Copyright */}
-        <p className="footer-simple-copy">
-          © 2024 Your Company, Inc. All rights reserved.
-        </p>
+        <div className="footer-simple-copy">
+          © 2024 NexOra. Designed & Built by Shubham Kumar.
+        </div>
       </div>
     </footer>
   )

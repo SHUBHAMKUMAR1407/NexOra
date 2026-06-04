@@ -42,12 +42,12 @@ const Hero = () => {
             <span>Trusted by 500+ Customers</span>
           </div>
         </div>
+      </div>
 
-        {/* Dashboard Illustration */}
-        <div className="hero-illustration">
-          <DashboardPreview />
-          <div className="hero-illustration-fade"></div>
-        </div>
+      {/* Dashboard Illustration */}
+      <div className="hero-illustration">
+        <DashboardPreview />
+        <div className="hero-illustration-fade"></div>
       </div>
     </section>
   )

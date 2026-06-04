@@ -8,7 +8,7 @@ const EmpowerPeople: React.FC = () => {
           <span className="section-badge-num">4</span>
           SMART TEAMWORK
         </div>
-        <h2>Empower People With Data</h2>
+        <h2 className="text-gradient">Empower People With Data</h2>
         <p className="section-subtitle">
           Reduce friction and enhance productivity by getting the right information to the right
           people with minimal effort, enabling them to thrive and excel.
@@ -40,8 +40,8 @@ const EmpowerPeople: React.FC = () => {
 
               {/* Center node */}
               <circle cx="160" cy="100" r="28" fill="white" stroke="#e0ddd6" strokeWidth="1.5" />
-              <text x="160" y="96" textAnchor="middle" fontSize="11" fontWeight="700" fill="#1a1a1a">HEX</text>
-              <text x="160" y="110" textAnchor="middle" fontSize="11" fontWeight="700" fill="#3ecf8e">LAB</text>
+              <text x="160" y="96" textAnchor="middle" fontSize="11" fontWeight="700" fill="#1a1a1a">NEX</text>
+              <text x="160" y="110" textAnchor="middle" fontSize="11" fontWeight="700" fill="#3ecf8e">ORA</text>
 
               {/* Member nodes */}
               {[
@@ -62,7 +62,7 @@ const EmpowerPeople: React.FC = () => {
             </svg>
 
             {/* Floating label */}
-            <div className="empower-site-chip">client-site.io</div>
+            <div className="empower-site-chip">analytics.nexora.io</div>
           </div>
         </div>
 

@@ -65,7 +65,7 @@ const Pricing = () => {
   return (
     <section className="pricing" id="pricing">
       <div className="pricing-container">
-        <h2>Pricing</h2>
+        <h2 className="text-gradient">Pricing</h2>
         <p className="section-subtitle">
           Discover the benefits of the best Google Analytics alternative with a free 30-day trial
           with no credit card required. Starting at only <strong>$6 per month</strong> for 10,000 monthly page views.

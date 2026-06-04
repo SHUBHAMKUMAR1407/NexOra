@@ -45,7 +45,7 @@ const Testimonials = () => {
   return (
     <section className="testimonials" id="testimonials">
       <div className="testimonials-container">
-        <h2>What Our Customers Say</h2>
+        <h2 className="text-gradient">What Our Customers Say</h2>
         <p className="section-subtitle">
           Join thousands of businesses that trust Nexora for privacy-first analytics.
         </p>

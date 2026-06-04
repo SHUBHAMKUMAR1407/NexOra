@@ -22,6 +22,7 @@ export const metadata: Metadata = {
 }
 
 import CustomCursor from './components/CustomCursor'
+import SmoothScroll from './components/SmoothScroll'
 
 export default function RootLayout({
   children,
@@ -31,6 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <body className={inter.className}>
+        <SmoothScroll />
         <CustomCursor />
         {children}
       </body>

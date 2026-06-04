@@ -7,18 +7,18 @@
 :root {
   /* === EXACT COLORS matching Pirsch reference screenshots === */
   --color-bg: #ffffff;             /* pure white sections */
-  --color-bg-secondary: #f3f0ea;   /* prominent warm cream */
-  --color-bg-card: #eae6dd;        /* deeper warm cream cards */
-  --color-bg-hover: #ede9e1;
+  --color-bg-secondary: #f9f7f2;   /* perfectly balanced cream */
+  --color-bg-card: #f4f1ea;        /* slightly deeper cream for cards */
+  --color-bg-hover: #f7f5ef;
 
   --color-text-primary: #0d0d0d;   /* near-black like reference */
   --color-text-secondary: #606060;
   --color-text-muted: #999999;
   --color-text-light: #c2bfb8;
 
-  --color-accent: #0ea5e9;          /* Sky Blue */
-  --color-accent-dark: #0284c7;
-  --color-accent-light: #e0f2fe;
+  --color-accent: #0ac399;          /* Teal Green */
+  --color-accent-dark: #08a380;
+  --color-accent-light: #e6f9f5;
 
   --color-border: #dedad1;          /* warm brown-tinted border */
   --color-border-light: #eae7df;

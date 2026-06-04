@@ -19,7 +19,7 @@ const Features = () => {
           <span className="section-badge-num">1</span>
           GET STARTED IN SECONDS
         </div>
-        <h2>Set Up In Minutes</h2>
+        <h2 className="text-gradient">Set Up In Minutes</h2>
         <p className="section-subtitle">
           Simply add the script to your site, choose from a variety of plugins, or go for
           the API backend integration. Pirsch is the plug-and-play Google Analytics alternative.

@@ -6,7 +6,7 @@ const DiveIntoDetails = () => {
           <span className="section-badge-num">3</span>
           ADVANCED ANALYTICS
         </div>
-        <h2>Dive Into the Details</h2>
+        <h2 className="text-gradient">Dive Into the Details</h2>
         <p className="section-subtitle">
           See beyond clicks with the power of events, A/B testing, and tag-based
           segmentation, drill down into single sessions, or track your performance
