@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/fdfbf4/3ecf8e?text=N" alt="NexOra Logo" width="100" />
-  <h1>NexOra Analytics</h1>
+  <h1>✨ NexOra Analytics</h1>
   <p><strong>A modern, privacy-friendly, and powerful SaaS analytics platform.</strong></p>
   
   [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
