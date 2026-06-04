@@ -1193,7 +1193,7 @@ h1, h2, h3, h4 {
    ===================== */
 .empower {
   padding: 80px 24px;
-  background: var(--color-bg-secondary);
+  background: white;
   text-align: center;
 }
 .empower-container {
@@ -1282,6 +1282,17 @@ h1, h2, h3, h4 {
   grid-template-columns: 1fr 1fr;
   gap: 14px;
   text-align: left;
+}
+.empower-sub-grid .feature-card {
+  background: #fdfbf4;
+  border: none;
+  border-radius: 18px;
+}
+.empower-sub-grid .feature-card p {
+  max-height: none;
+  -webkit-mask-image: none;
+  mask-image: none;
+  overflow: visible;
 }
 
 /* =====================

@@ -70,17 +70,14 @@ const EmpowerPeople: React.FC = () => {
         <div className="empower-sub-grid">
           <div className="feature-card">
             <h3>Receive Automatic Email Reports</h3>
-            <p className="detail-desc">
-              Get an overview of key metrics delivered directly to your inbox with{' '}
-              <Link href="#" style={{ color: 'var(--color-accent-dark)' }}>automatic email reports</Link>.
-              Regularly receive a concise summary of the latest activities with just one click.
+            <p>
+              Keep colleagues, customers, or partners in the loop with automatic email reports. Regularly receive a concise summary of the latest activities with just one click.
             </p>
           </div>
           <div className="feature-card">
             <h3>Share Dashboards With Anybody</h3>
             <p>
-              Working with external partners? Create unique access links to securely grant access to
-              dashboards or make them public on your personal subdomain.
+              Working with external partners? Create unique access links to securely grant access to dashboards or make them public on your personal subdomain.
             </p>
           </div>
         </div>
